@@ -7,7 +7,7 @@ Analista de Suporte N2 @Mutant.
 
 Meu nome é Edvan Ribeiro Dos Santos Junior. Sou formado em Gestão de Tecnologia da Informação pelo Centro Universitário Senac, e em 2024 inicie a segunda graduação em Análise e Desenvolvimento de Sistemas também no Centro Universitário Senac. 
 
-Desde 2019, atuo na área de suporte com foco em sustentação, análise de incidentes e troubleshooting de aplicações de URA. Tendo contribuído com o desenvolvimento de algumas soluções para apoio da área de suporte, tendo utilizando React, PowerShell, Python, C#/.NET e Google App Scripts.
+Desde 2019, atuo na área de suporte com foco em sustentação, análise de incidentes e troubleshooting de aplicações de URA. Tendo contribuído com o desenvolvimento de algumas soluções para apoio da área de suporte, utilizando o Python, C#/.NET, React, PowerShell e Google App Scripts.
 
 
 
