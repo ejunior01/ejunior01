@@ -16,7 +16,8 @@ Desde 2019, atuo na área de suporte com foco em sustentação, análise de inci
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
+  <a style="height: auto; width: 55%;" href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"
@@ -28,7 +29,10 @@ Desde 2019, atuo na área de suporte com foco em sustentação, análise de inci
   />
   <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true&hide_border=true" />
 </picture>
-</a><a href="https://github.com/ejunior01/convoychat">
+</a>
+&nbsp;
+&nbsp;
+<a style="height: auto; width: 55%;" href="https://github.com/ejunior01/convoychat">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8&theme=dark&hide_border=true"
@@ -41,6 +45,6 @@ Desde 2019, atuo na área de suporte com foco em sustentação, análise de inci
   <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8&hide_border=true" />
 </picture>
 </a>
-
+</div>
 
 
