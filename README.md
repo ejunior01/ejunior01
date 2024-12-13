@@ -19,26 +19,26 @@ Desde 2019, atuo na área de suporte com foco em sustentação, análise de inci
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true" />
+  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true&hide_border=true" />
 </picture>
 </a><a href="https://github.com/ejunior01/convoychat">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8&theme=dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8" />
+  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8&hide_border=true" />
 </picture>
 </a>
 
