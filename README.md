@@ -17,7 +17,7 @@ Desde 2019, atuo na área de suporte com foco em sustentação, análise de inci
 
 
 <div>
-  <a style="height: auto; width: 55%;" href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"
@@ -27,12 +27,11 @@ Desde 2019, atuo na área de suporte com foco em sustentação, análise de inci
     srcset="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img  align="center" height=auto width='40%' src="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true&hide_border=true" />
 </picture>
 </a>
 &nbsp;
-&nbsp;
-<a style="height: auto; width: 55%;" href="https://github.com/ejunior01/convoychat">
+<a href="https://github.com/ejunior01/convoychat">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8&theme=dark&hide_border=true"
@@ -42,7 +41,7 @@ Desde 2019, atuo na área de suporte com foco em sustentação, análise de inci
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8&hide_border=true" />
+  <img  align="center" height=auto width='30%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=8&hide_border=true" />
 </picture>
 </a>
 </div>
