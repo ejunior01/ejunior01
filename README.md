@@ -17,7 +17,7 @@ Desde 2019, atuo na área de suporte com foco em sustentação, análise de inci
 
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ejunior01&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"
@@ -31,17 +31,17 @@ Desde 2019, atuo na área de suporte com foco em sustentação, análise de inci
 </picture>
 </a>
 &nbsp;
-<a href="https://github.com/ejunior01/convoychat">
+<a href="#">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=6&theme=dark&hide_border=true&hide=html,css"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=6&theme=dark&hide_border=true&hide=css,html"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=6&hide_border=true&hide=html,css"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=6&hide_border=true&hide=css,html"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  align="center" height=auto width='30%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=6&hide_border=true&hide=html,css" />
+  <img  align="center" height=auto width='30%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ejunior01&layout=compact&langs_count=6&hide_border=true&hide=css,html" />
 </picture>
 </a>
 </div>
