@@ -5,10 +5,9 @@ Analista de Suporte N2 @Mutant.
 [![Linkedin Badge](https://img.shields.io/badge/-Edvan%20Ribeiro-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edvan-rs-junior/)](https://www.linkedin.com/in/edvan-rs-junior/) 
 [![Gmail Badge](https://img.shields.io/badge/-jk.jr47@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jk.jr47@gmail.com)](mailto:jk.jr47@gmail.com)
 
-Sou Edvan, profissional com mais de 5 anos de experiência em suporte técnico e atualmente em transição para a área de desenvolvimento back-end. Tenho sólida experiência em análise de incidentes, troubleshooting, e automação de processos usando Python, C#, PowerShell e SQL. Ao longo da minha carreira, desenvolvi soluções para otimizar tarefas e processos internos, além de trabalhar diretamente com gestão de chamados e monitoramento de sistemas.
+Sou Edvan, profissional com mais de 5 anos de experiência em suporte técnico, atualmente em transição para a área de desenvolvimento back-end. Minha trajetória inclui análise e resolução de incidentes, troubleshooting e automação de processos, utilizando Python, C#, PowerShell e SQL para otimizar fluxos de trabalho e aumentar a eficiência operacional.
 
-Atualmente, estou aprofundando meus conhecimentos em .NET/C# e busco oportunidades para aplicar minha experiência prática de suporte técnico no desenvolvimento de sistemas robustos e eficientes. Sou graduado em Análise e Desenvolvimento de Sistemas e Gestão de Tecnologia da Informação pelo Centro Universitário Senac, e estou sempre em busca de novos conhecimentos por meio de certificações e estudos contínuos.
-
+Atualmente, estou aprofundando meus conhecimentos em .NET/C# e cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac, estou sempre em busca de novos desafios, aprimoramento contínuo e certificações para expandir minhas habilidades.
 
 
 ## 💻 Tech Stack
