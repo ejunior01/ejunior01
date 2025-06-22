@@ -5,9 +5,13 @@ Desenvolvedor Backend .NET | C# **@Mutant**.
 [![Linkedin Badge](https://img.shields.io/badge/-Edvan%20Ribeiro-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edvan-rs-junior/)](https://www.linkedin.com/in/edvan-rs-junior/) 
 [![Gmail Badge](https://img.shields.io/badge/-jk.jr47@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jk.jr47@gmail.com)](mailto:jk.jr47@gmail.com)
 
-Olá, eu sou Edvan, desenvolvedor back-end **.NET / C#**. Após mais de cinco anos atuando como analista de suporte, migrei de forma definitiva para o desenvolvimento de software. Hoje, atuo na criação de URAs e Bots.
 
-Atualmente, estou aprofundando meus conhecimentos em .NET/C# atráves de cursos, e cursando Análise e Desenvolvimento de Sistemas pelo **Centro Universitário Senac**. Estou sempre em busca de novos desafios, aprimoramento contínuo e certificações para expandir minhas habilidades.
+Desenvolvedor Backend em .NET/C# com background em suporte técnico. Após mais de cinco anos atuando como analista de suporte, realizei a transição definitiva para o desenvolvimento de software. Atualmente, trabalho na criação de URAs e bots, adquirindo experiência prática em ambientes reais.
+
+Possuo conhecimentos em Python, React e SQL. Além do backend, tenho grande interesse por interfaces gráficas web e mobile, e venho desenvolvendo projetos utilizando React.
+
+Sou graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac e continuo aprofundando meus conhecimentos por meio de cursos em plataformas como Desenvolvedor.IO, JStack, entre outras. Estou em constante busca por desafios, certificações e oportunidades para evoluir como desenvolvedor.
+
 
 ## 💻 Tech Stack
 
