@@ -1,14 +1,13 @@
 # Edvan Ribeiro 
 
-Analista de Suporte N2 @Mutant.
+Desenvolvedor Backend .NET | C# **@Mutant**.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Edvan%20Ribeiro-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edvan-rs-junior/)](https://www.linkedin.com/in/edvan-rs-junior/) 
 [![Gmail Badge](https://img.shields.io/badge/-jk.jr47@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jk.jr47@gmail.com)](mailto:jk.jr47@gmail.com)
 
-Sou Edvan, profissional com mais de 5 anos de experiência em suporte técnico, atualmente em transição para a área de desenvolvimento back-end. Minha trajetória inclui análise e resolução de incidentes, troubleshooting e automação de processos, utilizando Python, C#, PowerShell e SQL para otimizar fluxos de trabalho e aumentar a eficiência operacional.
+Olá, eu sou Edvan, desenvolvedor back-end **.NET / C#**. Após mais de cinco anos atuando como analista de suporte, migrei de forma definitiva para o desenvolvimento de software. Hoje, atuo na criação de URAs e Bots.
 
-Atualmente, estou aprofundando meus conhecimentos em .NET/C# e cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac, estou sempre em busca de novos desafios, aprimoramento contínuo e certificações para expandir minhas habilidades.
-
+Atualmente, estou aprofundando meus conhecimentos em .NET/C# atráves de cursos, e cursando Análise e Desenvolvimento de Sistemas pelo **Centro Universitário Senac**. Estou sempre em busca de novos desafios, aprimoramento contínuo e certificações para expandir minhas habilidades.
 
 ## 💻 Tech Stack
 
