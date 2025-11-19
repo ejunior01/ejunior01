@@ -1,6 +1,6 @@
 # Edvan Ribeiro 
 
-Desenvolvedor Backend .NET | C# na **Mutant**.
+Desenvolvedor Backend .NET | C#
 
 [![Linkedin Badge](https://img.shields.io/badge/-Edvan%20Ribeiro-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edvan-rs-junior/)](https://www.linkedin.com/in/edvan-rs-junior/) 
 [![Gmail Badge](https://img.shields.io/badge/-jk.jr47@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jk.jr47@gmail.com)](mailto:jk.jr47@gmail.com)
