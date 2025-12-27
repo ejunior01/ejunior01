@@ -8,9 +8,9 @@ Desenvolvedor Backend .NET | C#
 
 ### 👋 Olá! Eu sou o Edvan
 
-Sou desenvolvedor backend focado em .NET/C#, com mais de 5 anos de experiência em suporte técnico antes de migrar definitivamente para o desenvolvimento de software.
+Sou desenvolvedor backend .NET/C#, com mais de 5 anos de experiência em suporte técnico antes de migrar definitivamente para o desenvolvimento de software.
 
-Hoje trabalho criando URAs e bots, usando principalmente C# e .NET no dia a dia — mas também gosto de explorar outras tecnologias como Python, React e SQL para expandir meu repertório.
+Hoje trabalho desenvolvendo URAs e bots para o Whatsapp, usando principalmente C# e .NET no dia a dia — mas também gosto de explorar outras tecnologias como Python, React e SQL para expandir meu repertório fora do trabalho.
 
 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Senac e continuo me aprimorando com conteúdos da Desenvolvedor.IO, JStack e outras plataformas de aprendizado.
 
